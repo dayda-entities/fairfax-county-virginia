@@ -10,8 +10,7 @@ source_contact_type: general
 source_phone: +1 555-555-5555
 source_email: info@example.com
 source_catalog: data.gov
-profile_pic: >-
-  https://www.fairfaxcounty.gov/resources/public/web/templates/profile_pics/interface/logo.gif
+profile_pic: 'https://directory.dayda.org/assets/img/entities/fairfax-county-virginia.png'
 favicon: /assets/img/favicon.png
 url: 'http://fairfax-county-virginia.dayda.org'
 encoding: utf-8
